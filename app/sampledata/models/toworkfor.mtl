@@ -1,0 +1,106 @@
+# Blender MTL File: 'toworkfor.blend'
+# Material Count: 9
+
+newmtl Cloth_Weave_Beige_1mm_#1.014
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500008 0.500008 0.499992
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 3.200000 Rope002_2K-JPG\\Rope002_2K_Normal.jpg
+map_Ns Rope002_2K-JPG\\Rope002_2K_Roughness.jpg
+refl Rope002_2K-JPG\\Rope002_2K_Metalness.jpg
+
+newmtl Cloth_Weave_Beige_1mm_#2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500008 0.500008 0.499992
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Cloth_Weave_Beige_1mm_#2.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500008 0.500008 0.499992
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Cloth_Weave_Beige_1mm_#2.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500008 0.500008 0.499992
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Cloth_Weave_Beige_1mm_#2.003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500008 0.500008 0.499992
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Cloth_Weave_White_1mm
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500008 0.500008 0.499992
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Fabric030_2K-JPG\\Fabric030_2K_Normal.jpg
+map_Ns Fabric030_2K-JPG\\Fabric030_2K_Roughness.jpg
+
+newmtl Leather_Brown_1000mm.002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.300000 0.300000 0.300000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Fabric012_2K-PNG\\Fabric012_2K_Normal.png
+map_Ns Fabric012_2K-PNG\\Fabric012_2K_Roughness.png
+
+newmtl PU_PRETO
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump rubber\\rubber_Normal.png
+map_Kd rubber\\rubber_Diffuse.png
+map_Ks rubber\\rubber_Specular.png
+map_Ns rubber\\rubber_Roughness.png
+
+newmtl TPU
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.039744 0.476923
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd sola\\sola_Albedo.png
+map_Ks sola\\sola_Specular.png
+map_Ns sola\\sola_Roughness.png
